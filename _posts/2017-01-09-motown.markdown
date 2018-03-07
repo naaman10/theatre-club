@@ -1,10 +1,10 @@
 ---
 title: Motown The Musical
-layout: post
 date: 2017-01-09 12:22:00 Z
-permalink: /motown
+permalink: "/motown"
 categories:
 - Shows
+layout: post
 img-url: https://ucarecdn.com/f977ccad-c941-42e9-a796-0fd9c9959101/-/crop/1400x699/0,0/
 card-img: http://img1.superbreak.net/content/images/cms/cms-show/motown-tab-compressor.jpg
 show-snip: The songs and stories of Motown under Berry Gordy.
