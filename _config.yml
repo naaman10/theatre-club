@@ -15,6 +15,10 @@ defaults:
   values:
     img-url: ''
     categories: Shows
+    img-url: ''
+    card-img: ''
+    show-snip: ''
+    book-url: ''
 email: theatreclub@SuperBreak.com
 description: theatre club
 baseurl: ''
