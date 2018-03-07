@@ -13,11 +13,14 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
+    img-url: ''
+    categories: Shows
+    img-url: ''
+    card-img: ''
+    show-snip: ''
+    book-url: ''
+email: theatreclub@SuperBreak.com
+description: theatre club
+baseurl: ''
+url: http://theatreclub.superbreak.com
+markdown: kramdown
