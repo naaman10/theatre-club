@@ -10,6 +10,7 @@ card-img: http://img1.superbreak.net/content/images/cms/cms-show/new-dramgirls-l
 show-snip: A new production of the award-winning musical is currently wowing the West
   End.
 book-url: http://www.superbreak.com/theatre/dreamgirls-london-656
+from-price: £99
 ---
 
 After a hit run on Broadway, Dreamgirls is currently playing to packed houses in London's West End.
