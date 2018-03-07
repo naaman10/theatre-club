@@ -1,10 +1,10 @@
 ---
 title: Les Miserables
-layout: post
 date: 2017-01-09 12:22:00 Z
-permalink: /les-miserables
+permalink: "/les-miserables"
 categories:
 - Shows
+layout: post
 img-url: https://cdn.thestage.co.uk/wp-content/uploads/2013/05/Les-Miserables-Barbican-573.jpg
 card-img: http://img1.superbreak.net/content/images/cms/cms-show/MIS_Superbreak_Branding_257x187.jpg
 show-snip: One of the most famous musicals of all time - a must-see for everyone.
