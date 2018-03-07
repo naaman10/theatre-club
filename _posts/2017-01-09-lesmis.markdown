@@ -9,6 +9,7 @@ img-url: https://cdn.thestage.co.uk/wp-content/uploads/2013/05/Les-Miserables-Ba
 card-img: http://img1.superbreak.net/content/images/cms/cms-show/MIS_Superbreak_Branding_257x187.jpg
 show-snip: One of the most famous musicals of all time - a must-see for everyone.
 book-url: http://www.superbreak.com/theatre/les_miserables-london-11
+from-price: £99
 ---
 
 ## About Les Misérables
