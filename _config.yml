@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     img-url: ''
-    categories: Testimonials
+    categories: Shows
 email: theatreclub@SuperBreak.com
 description: theatre club
 baseurl: ''
