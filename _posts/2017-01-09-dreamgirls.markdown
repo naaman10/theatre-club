@@ -1,13 +1,14 @@
 ---
 title: Dreamgirls
-layout: post
 date: 2017-01-09 12:22:00 Z
-permalink: /dreamgirls
+permalink: "/dreamgirls"
 categories:
 - Shows
+layout: post
 img-url: http://www.villagetheatre.org/Graphics/press-photos/mainstage/dreamgirls/dreamgirls-press9-web.jpg
 card-img: http://img1.superbreak.net/content/images/cms/cms-show/new-dramgirls-logo-oct17.jpg
-show-snip: A new production of the award-winning musical is currently wowing the West End.
+show-snip: A new production of the award-winning musical is currently wowing the West
+  End.
 book-url: http://www.superbreak.com/theatre/dreamgirls-london-656
 ---
 

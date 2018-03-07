@@ -1,13 +1,14 @@
 ---
 title: The Lion King
-layout: post
 date: 2017-01-09 12:22:00 Z
-permalink: /lion-king
+permalink: "/lion-king"
 categories:
 - Shows
+layout: post
 img-url: https://i.ytimg.com/vi/-pgZtzDj_7o/maxresdefault.jpg
 card-img: http://img1.superbreak.net/content/images/cms/cms-show/new-lion-king-main-logo-1017.jpg
-show-snip: Disney's legendary Lion King takes to the stage in a spectacular visual showcase.
+show-snip: Disney's legendary Lion King takes to the stage in a spectacular visual
+  showcase.
 book-url: http://www.superbreak.com/theatre/lion_king-london-12
 ---
 

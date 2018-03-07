@@ -1,5 +1,5 @@
 ---
-title: Super Break
+title: theatreclub
 timezone: UTC
 collections:
   posts:
@@ -13,10 +13,11 @@ defaults:
     path: ''
     type: posts
   values:
-    img-url: ''
-    categories: Shows
-email: theatreclub@SuperBreak.com
-description: theatre club
-baseurl: ''
-url: http://theatreclub.superbreak.com
-markdown: kramdown
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
