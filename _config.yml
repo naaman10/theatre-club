@@ -20,10 +20,10 @@ defaults:
     book-url: ''
     from-price: ''
 clubBenefits:
-    - Benefit 1
-    - Benefit 2
-    - Benefit 3
-    - Benefit 4
+- Benefit 1
+- Benefit 2
+- Benefit 3
+- Benefit 4
 email: theatreclub@SuperBreak.com
 description: |-
   Witness some of the West End’s biggest shows with our unrivalled London theatre break packages – complete with tickets and a hotel stay! You can even add return rail journey to your theatre break in London as well as tickets for the city’s leading attractions.
