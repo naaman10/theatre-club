@@ -106,6 +106,13 @@ nav {
 .viewMore a {
   color: #005FAA; }
 
+#offerPanel {
+  margin-top: 25px;
+  color: #fff; }
+
+#offerPanel .card {
+  background-color: #515151; }
+
 #socialBar {
   background-color: #f5f5f5;
   padding: 50px; }
