@@ -9,7 +9,7 @@ img-url: https://ucarecdn.com/f977ccad-c941-42e9-a796-0fd9c9959101/-/crop/1400x6
 card-img: http://img1.superbreak.net/content/images/cms/cms-show/motown-tab-compressor.jpg
 show-snip: The songs and stories of Motown under Berry Gordy.
 book-url: http://www.superbreak.com/theatre/motown_musical-london-189
-from-price: £99
+from-price: "£99"
 ---
 
 Experience the magic of Motown on a Super Break Motown The Musical Theatre Break!
