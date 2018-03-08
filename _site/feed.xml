@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Super Break</title>
+    <title>theatreclub</title>
     <description>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?</description>
-    <link>http://theatreclub.superbreak.com/</link>
-    <atom:link href="http://theatreclub.superbreak.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Mar 2018 13:22:16 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Mar 2018 13:22:16 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Mar 2018 15:00:49 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Mar 2018 15:00:49 +0000</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
     
       <item>
@@ -34,8 +34,8 @@
 &lt;p&gt;“Something close to rapture spreads through the audience” the New York Times recalls, while CBS defines it as “More than a Broadway show… a celebration of music that transformed America”. According to the Hollywood Reporter, “There’s no denying the power and energy of the show’s arsenal of killer tunes. There’s an enormous kick of watching them perform live that no iPod playlist can match”.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jan 2017 12:22:00 +0000</pubDate>
-        <link>http://theatreclub.superbreak.com/motown</link>
-        <guid isPermaLink="true">http://theatreclub.superbreak.com/motown</guid>
+        <link>http://0.0.0.0:4000/motown</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/motown</guid>
         
         
         <category>Shows</category>
@@ -59,8 +59,8 @@
 &lt;p&gt;Please note: Children under 3 years of age are not permitted to enter the Lyceum Theatre. The Lion King is recommended for ages 6 and up. Parents/guardians may be asked to remove persistently noisy or rowdy children. All persons aged 16 or under must be accompanied by an adult and may not sit on their own within the auditorium. All persons entering the theatre, regardless of age, must have a ticket.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jan 2017 12:22:00 +0000</pubDate>
-        <link>http://theatreclub.superbreak.com/lion-king</link>
-        <guid isPermaLink="true">http://theatreclub.superbreak.com/lion-king</guid>
+        <link>http://0.0.0.0:4000/lion-king</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/lion-king</guid>
         
         
         <category>Shows</category>
@@ -82,8 +82,8 @@
 &lt;p&gt;Now at the Queens Theatre London, Les Misérables has been seen by more than 65 million people worldwide in 44 countries and in 21 languages, this spectacular adaptation of Victor Hugo’s masterpiece continues to thrill audiences night after night.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jan 2017 12:22:00 +0000</pubDate>
-        <link>http://theatreclub.superbreak.com/les-miserables</link>
-        <guid isPermaLink="true">http://theatreclub.superbreak.com/les-miserables</guid>
+        <link>http://0.0.0.0:4000/les-miserables</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/les-miserables</guid>
         
         
         <category>Shows</category>
@@ -107,8 +107,8 @@
 &lt;p&gt;Opening on Broadway in 1981, the show was directed by Michael Bennett and starred Sheryl Lee Ralph, Jennifer Holiday and Loretta Devine as the three ‘Dreamgirls’. In 2006, the hit musical was adapted into a film starring Beyonce Knowles as Deena and Jennifer Hudson as Effie. The film won three Golden Globes and two Oscars, as well as winning supporting actress Hudson an Academy Award.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jan 2017 12:22:00 +0000</pubDate>
-        <link>http://theatreclub.superbreak.com/dreamgirls</link>
-        <guid isPermaLink="true">http://theatreclub.superbreak.com/dreamgirls</guid>
+        <link>http://0.0.0.0:4000/dreamgirls</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/dreamgirls</guid>
         
         
         <category>Shows</category>
