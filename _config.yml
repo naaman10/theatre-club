@@ -20,8 +20,6 @@ defaults:
     show-snip: ''
     book-url: ''
     from-price: ''
-- scope:
-    path: ''
 clubBenefits:
     - Benefit 1
     - Benefit 2
