@@ -4,13 +4,13 @@ date: 2017-01-09 12:22:00 Z
 permalink: "/dreamgirls"
 categories:
 - Shows
-layout: post
 img-url: http://www.villagetheatre.org/Graphics/press-photos/mainstage/dreamgirls/dreamgirls-press9-web.jpg
 card-img: http://img1.superbreak.net/content/images/cms/cms-show/new-dramgirls-logo-oct17.jpg
 show-snip: A new production of the award-winning musical is currently wowing the West
   End.
 book-url: http://www.superbreak.com/theatre/dreamgirls-london-656
-from-price: £99
+from-price: "£98"
+layout: post
 ---
 
 After a hit run on Broadway, Dreamgirls is currently playing to packed houses in London's West End.

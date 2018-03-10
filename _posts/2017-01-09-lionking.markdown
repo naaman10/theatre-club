@@ -10,7 +10,7 @@ card-img: http://img1.superbreak.net/content/images/cms/cms-show/new-lion-king-m
 show-snip: Disney's legendary Lion King takes to the stage in a spectacular visual
   showcase.
 book-url: http://www.superbreak.com/theatre/lion_king-london-12
-from-price: £99
+from-price: "£99"
 ---
 
 ## About Disney’s The Lion King
