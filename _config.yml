@@ -15,20 +15,21 @@ defaults:
   values:
     img-url: ''
     categories: Shows
+    img-url: ''
     card-img: ''
     show-snip: ''
     book-url: ''
     from-price: ''
+    gallery:
+      -img: ''
 clubBenefits:
 - Benefit 1
 - Benefit 2
 - Benefit 3
 - Benefit 4
 email: theatreclub@SuperBreak.com
-description: |-
-  Witness some of the West End’s biggest shows with our unrivalled London theatre break packages – complete with tickets and a hotel stay! You can even add return rail journey to your theatre break in London as well as tickets for the city’s leading attractions.
+description: <p>Witness some of the West End’s biggest shows with our unrivalled London theatre break packages – complete with tickets and a hotel stay! You can even add return rail journey to your theatre break in London as well as tickets for the city’s leading attractions.</p><p>Don’t fancy London? Our regional theatre breaks offer you the chance to see the capital’s biggest shows hit the stage in key UK cities like Edinburgh, Manchester and Cardiff. Or, to really book a break to remember, experience a Broadway theatre break in New York with tickets, hotel and flights included in your package!</p>
 
-  Don’t fancy London? Our regional theatre breaks offer you the chance to see the capital’s biggest shows hit the stage in key UK cities like Edinburgh, Manchester and Cardiff. Or, to really book a break to remember, experience a Broadway theatre break in New York with tickets, hotel and flights included in your package!
-baseurl: 
+baseurl: ''
 url: http://theatreclub.superbreak.com
 markdown: kramdown
