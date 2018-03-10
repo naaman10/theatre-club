@@ -138,6 +138,16 @@ nav {
   border-color: #f5644c;
 }
 
+.btn-info {
+  background-color: #005FAA;
+  border-color: #005FAA;
+}
+
+.btn-info:hover {
+  background-color: #398BC5;
+  border-color: #398BC5;
+}
+
 .card {
   margin-bottom: 15px;
 }
@@ -186,4 +196,21 @@ li.socialItem {
   display: inline-block;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+#clubBenefits {
+  text-align: center;
+  margin-top: 25px;
+  font-size: 20px;
+}
+
+#clubBenefits .fas {
+  color: #005FAA;
+  font-size: 30px;
+}
+
+#clubBenefits li {
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
 }
