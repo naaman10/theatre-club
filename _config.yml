@@ -21,7 +21,7 @@ defaults:
     book-url: ''
     from-price: ''
     gallery:
-      -img: ''
+      img: ''
 clubBenefits:
     - Benefit 1
     - Benefit 2
