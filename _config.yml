@@ -35,6 +35,6 @@ description: "<p>Witness some of the West End’s biggest shows with our unrival
   key UK cities like Edinburgh, Manchester and Cardiff. Or, to really book a break
   to remember, experience a Broadway theatre break in New York with tickets, hotel
   and flights included in your package!</p>"
-baseurl: ''
+baseurl: 
 url: http://theatreclub.superbreak.com
 markdown: kramdown
